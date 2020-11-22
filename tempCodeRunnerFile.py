@@ -1,1 +1,0 @@
-(list(y_data), nb_classes)
